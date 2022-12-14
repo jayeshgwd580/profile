@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.befea15f.css",
+    "main.js": "/profile/static/js/main.b30ef057.js",
+    "static/media/background1.jpg": "/profile/static/media/background1.9ee90238a9bcfb20ba84.jpg",
+    "static/media/profileimg.jpg": "/profile/static/media/profileimg.e62c88c91e762ee7fe47.jpg",
+    "static/media/react.svg": "/profile/static/media/react.311aed114e16d40fef126a5efd7cfa17.svg",
+    "static/media/wordpress.svg": "/profile/static/media/wordpress.fd48a95808ec6c53507c9a6bd1246563.svg",
+    "static/media/php.svg": "/profile/static/media/php.aab5d8ff7c4b6454ffb5d4baf031b432.svg",
+    "static/media/python.svg": "/profile/static/media/python.e05cbea9594ff51f35d2590459affe40.svg",
+    "static/media/brain-solid.svg": "/profile/static/media/brain-solid.b9df331f2b03abbb37851a1b3c5c7598.svg",
+    "static/media/square-js.svg": "/profile/static/media/square-js.5e769243a6f2414e837664c8b6c68f7c.svg",
+    "static/media/address-book-solid.svg": "/profile/static/media/address-book-solid.dc8f0bbde548a1fcd681a430fa3aeb45.svg",
+    "static/media/user-graduate-solid.svg": "/profile/static/media/user-graduate-solid.4cb9498cb1c00565d7352718c20ed365.svg",
+    "index.html": "/profile/index.html",
+    "static/media/laptop-file-solid.svg": "/profile/static/media/laptop-file-solid.99f7cfdbaf8f385e7cc4fddc55d25c37.svg",
+    "static/media/css3-alt.svg": "/profile/static/media/css3-alt.6d6d60e438f88d7a7c590ec5030264f8.svg",
+    "static/media/user-solid.svg": "/profile/static/media/user-solid.5234d6211d575dbf8f6f0ba6747268c7.svg",
+    "static/media/html5.svg": "/profile/static/media/html5.b8d8e1c434b636f85526f80491ed67dd.svg",
+    "main.befea15f.css.map": "/profile/static/css/main.befea15f.css.map",
+    "main.b30ef057.js.map": "/profile/static/js/main.b30ef057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.befea15f.css",
+    "static/js/main.b30ef057.js"
+  ]
+}
